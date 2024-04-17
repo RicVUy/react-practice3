@@ -1,0 +1,153 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: "Titillium Web", sans-serif;
+  }
+  body, css {
+      margin: 0;
+      padding: 0;
+      background-color: #f3fff0b2;
+      text-align: center;
+    }
+    
+    body * {
+      margin: 1em;
+      padding: 0;
+      list-style: none;
+    }
+  
+  .card {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: cornflowerblue;
+  }
+  .card1 {
+    margin: 1rem;
+    width:30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: cornflowerblue;
+  }
+  .card img {
+    width: 50%;
+  }
+  #employeeForm {
+    position: relative;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  border: 1px solid #333;
+  background: rgba(0, 255, 0, 0.3);
+  padding: 15px 20px 18px 18px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 5px #333;
+  }
+  .searchbar {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .editFormSection {
+    text-align:center;
+    border: 5px solid purple;
+    
+    width: 50%
+  }
+  #header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid #333;
+    background: rgba(255, 0, 255, 0.3);
+    padding: 15px 20px 18px 18px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px #333;
+  }
+  #time-in-out {
+    position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  border: 1px solid #333;
+  background: rgba(255, 0, 0, 0.3);
+  padding: 15px 20px 18px 18px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 5px #333;
+  }
+  #time-elapsed {
+    position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  border: 1px solid #333;
+  background: rgba(0, 162, 255, 0.3);
+  padding: 15px 20px 18px 18px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 5px #333;
+  }
+  .see {
+    position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+border: 1px solid #333;
+background: rgba(17, 0, 255, 0.3);
+padding: 15px 20px 18px 18px;
+border-radius: 5px;
+box-shadow: 2px 5px 5px #333;
+  }
+  .edit-employee-form-section {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid #333;
+    background: rgba(0, 217, 255, 0.3);
+    padding: 15px 20px 18px 18px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px #333;  
+  }
+  nav {
+    background-color: #333;
+    color: rgba(102, 25, 15, 0.616);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .top-links ul,
+  .bottom-links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .top-links ul li,
+  .bottom-links ul li {
+    margin-right: 20px;
+  }
+  
+  .bottom-links {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }

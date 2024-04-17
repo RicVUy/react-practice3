@@ -1,0 +1,107 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Ricardo",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.EKdqo9KahtB1sWyk7XCMhQAAAA&pid=Api&P=0&h=220",
+        "password": "dolphin",
+        "position": "Cleaner",
+        "schedule": "Thursday, Friday, Saturday, Sunday",
+        "workTime": 123,
+        "payPerHour": 40,
+        "timeInEvents": "7:00",
+        "timeOutEvents": "9:00",
+        "payForThisWeek": "130"
+      },
+      {
+        "id": 2,
+        "name": "Edna",
+        "image": "https://images.rawpixel.com/image_png_300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zNF9mdWxsX2JvZHlfM2RfYXZhdGFyXzNkX3JlbmRlcl9vZl9hX2J1c2luZXNzd19jOWYzODYxYy1lZTYzLTQxOGYtOThmNC02MWJkNGM3OGE1YTZfMS5wbmc.png",
+        "password": "Eloise",
+        "position": "Asst. Manager",
+        "schedule": "Wednesday,Thursday, Friday, Saturday",
+        "workTime": 278,
+        "payPerHour": 35,
+        "timeInEvents": [],
+        "timeOutEvents": [],
+        "payForThisWeek": 0
+      },
+      {
+        "id": 3,
+        "name": "Johnny",
+        "image": "https://images.rawpixel.com/image_png_300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMDhiYXRjaDktczMwLXMzNC1zNDYtczQ5LXM1MC1zNTMtMzY2LWV5ZS0wNC0wNy5wbmc.png",
+        "password": "Kuro",
+        "position": "Maintenance",
+        "schedule": "Tuesday,Wednesday,Thursday, Friday",
+        "workTime": 56,
+        "payPerHour": 33,
+        "timeInEvents": [],
+        "timeOutEvents": [],
+        "payForThisWeek": 0
+      },
+      {
+        "name": "JayR Cabanban",
+        "image": "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_1280.png",
+        "password": "mabuhay",
+        "position": "Purchaser",
+        "schedule": "Monday to Saturday",
+        "workTime": 0,
+        "payPerHour": 14,
+        "timeInEvents": [],
+        "timeOutEvents": [],
+        "payForThisWeek": "345",
+        "id": 4
+      },
+      {
+        "name": "Paul Jethro Uy",
+        "image": "https://images.rawpixel.com/image_png_600/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjc5MS10YW5nLTA5LWt6OWowNzhzLnBuZw.png",
+        "password": "adobo",
+        "position": "Accountant",
+        "schedule": "Monday to Wednesday",
+        "workTime": "8:00 AM to 5:00 PM",
+        "payPerHour": 35,
+        "timeInEvents": [],
+        "timeOutEvents": [],
+        "payForThisWeek": "3000",
+        "id": 5
+      },
+      {
+        "name": "Merei Bertiz",
+        "image": "https://img.freepik.com/free-photo/cartoon-character-with-yellow-jacket-sunglasses_71767-101.jpg?w=740&t=st=1695864089~exp=1695864689~hmac=febace5ecf669f9064f167238b35555633d77af9fc42a40f461df9d6c1e7401d",
+        "password": "welcome",
+        "position": "sales",
+        "schedule": "Monday to Saturday",
+        "workTime": 450,
+        "payPerHour": 23,
+        "timeInEvents": "3:00 AM",
+        "timeOutEvents": "9:00",
+        "payForThisWeek": "0",
+        "id": 6
+      },
+      {
+        "name": "Eloise Uy",
+        "image": "https://tse1.explicit.bing.net/th?id=OIP.1UOdYcY0fb3wZtGBcyLcIgHaHa&pid=Api&P=0&h=220",
+        "password": "Allan",
+        "position": "sales",
+        "schedule": "on Vacation",
+        "workTime": 1234,
+        "payPerHour": 31,
+        "timeInEvents": [],
+        "timeOutEvents": [],
+        "payForThisWeek": "07654",
+        "id": 7
+      }
+    ],
+    "admins": [
+      {
+        "id" : 1,
+        "name" :"James",
+        "password": "Stephen"
+      },
+      {
+        "id" : 2,
+        "name" :"Vivien",
+        "password": "Gertrude"
+      }
+      ]
+  }
